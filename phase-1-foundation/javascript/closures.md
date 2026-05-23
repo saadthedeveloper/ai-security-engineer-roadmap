@@ -1,0 +1,1 @@
+Closures occur when an inner function retains access to the variables of its outer (enclosing) function, even after the outer function has finished executing. This allows the inner function to "remember" and use those variables later, creating a private, persistent scope.
